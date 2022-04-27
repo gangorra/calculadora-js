@@ -1,0 +1,19 @@
+body {
+    background: #8fbc8f;
+    font-family: Verdana;
+    max-width: 750px;
+    margin: auto;
+}
+
+title {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: black; 
+    font-size: Impact;
+}
+
+a {
+    font-size: 25px;
+    text-decoration: underline;
+    color: #505050;    
+}
