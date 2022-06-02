@@ -64,7 +64,6 @@ function calculadora() {
             }
         }
 
-
         // Verificação
         if (operacao == 1) {
             soma();
@@ -81,6 +80,5 @@ function calculadora() {
         }
     }
 }
-
 
 calculadora();
